@@ -1,7 +1,7 @@
 
-Book's name :  Learning_Scientific_Programming_with_Pytho .
+Book's name :  __Learning_Scientific_Programming_with_Python__ .
 
-The Author of the book : Christian Hill.
+The Author of the book : __Christian Hill__.
 
 As what you can see form the description of this repository,
 this file is aiming to code and solve the problems behind each 
@@ -14,4 +14,4 @@ Due to lack of time for finishing all the problems, what I could do
 is to pick some short questions as exercise,and most of them are shown
 in here already. 
 
-Welcome to share your idea, perspective, and coding here!!
+__Welcome to share your idea, perspective, and coding here!!__

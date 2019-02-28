@@ -1,0 +1,39 @@
+# Coast Redwood data from The Gymnosperm database (http://www.conifers.org/)
+# Tree name, Location, diameter (m), height (m)
+Aether's Arrow 	Humboldt Redwoods State Park	3.38	111.16
+Alice Rhodes	Humboldt Redwoods State Park	3.35	111.53
+Apex	Humboldt Redwoods State Park	3.38	111.83
+Crown Jewel	Redwood National Park	3.54	110.40
+Daedalus 	Redwood National Park	4.26	110.77
+Federation Giant	Humboldt Redwoods State Park	4.54	112.62
+Harriett Weaver	Humboldt Redwoods State Park	4.11	110.68
+Harry Cole	Redwood National Park	4.94	111.65
+Helios	Redwood National Park	4.96	114.58
+Hyperion	Redwood National Park	4.84	115.61
+Icarus	Redwood National Park	3.78	113.14
+John Muir	Humboldt Redwoods State Park	4.27	110.06
+Libby (A.K.A. Tall)	Redwood National Park	2.90	110.62
+Lone Fern	Humboldt Redwoods State Park	2.56	111.47
+Mendocino	Montgomery Woods State Reserve	4.19	112.32
+Millennium	Humboldt Redwoods State Park	2.71	111.92
+Minaret	Humboldt Redwoods State Park	3.66	111.56
+Mother & Daughter	Humboldt Redwoods State Park	3.60	111.50
+National Geographic	Redwood National Park	4.39	112.71
+Orion	Redwood National Park	4.33	112.63
+Paradox	Humboldt Redwoods State Park	3.90	112.51
+Paul Zahl	Redwood National Park	3.78	111.16
+Paul Zinke	Humboldt Redwoods State Park	2.90	111.31
+Pinnacle	Humboldt Redwoods State Park	3.05	110.71
+Pipe Dream	Humboldt Redwoods State Park	4.27	111.71
+Pyramid Giant	Humboldt Redwoods State Park	5.03	110.68
+Rockefeller	Humboldt Redwoods State Park	4.84	111.59
+Rocket Top	Humboldt Redwoods State Park	3.29	110.77
+Rockview	Humboldt Redwoods State Park	3.84	110.03
+South Fork	Humboldt Redwoods State Park	4.02	110.40
+Springing Buck	Humboldt Redwoods State Park	4.79	110.20
+Stratosphere Giant	Humboldt Redwoods State Park	5.18	113.05
+Swamp	Montgomery Woods State Reserve	3.41	110.09
+T4	Redwood National Park	3.99	110.06
+Teepee Bell	Montgomery Woods State Reserve	4.08	111.34
+Tranquility	Humboldt Redwoods State Park	4.14	110.55
+Valentine	Humboldt Redwoods State Park	3.47	110.65

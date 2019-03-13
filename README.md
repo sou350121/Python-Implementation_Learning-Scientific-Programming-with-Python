@@ -1,6 +1,6 @@
 
 This is a collection of solutions to selected exercises from  __Learning Scientific Programming with Python__ 
-- by Christian Hill February 2016.
+by Christian Hill February 2016.
 
 
 

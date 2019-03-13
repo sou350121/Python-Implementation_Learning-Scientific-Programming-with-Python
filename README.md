@@ -1,7 +1,10 @@
 
-Book's name :  __Learning_Scientific_Programming_with_Python__ .
+
+
+Solution for the Book :  __Learning Scientific Programming with Python__ .
 
 The Author of the book : __Christian Hill__.
+
 
 As what you can see form the description of this repository,
 this file is aiming to code and solve the problems behind each 

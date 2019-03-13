@@ -1,9 +1,8 @@
 
+This is a collection of solutions to selected exercises from  __Learning Scientific Programming with Python__ 
+by __Christian Hill__
 
 
-Solution for the Book :  __Learning Scientific Programming with Python__ .
-
-The Author of the book : __Christian Hill__.
 
 
 As what you can see form the description of this repository,
@@ -18,3 +17,9 @@ is to pick some short questions as exercise,and most of them are shown
 in here already. 
 
 __Welcome to share your idea, perspective, and coding here!!__
+
+---
+
+Solution for the Book :  __Learning Scientific Programming with Python__ .
+
+The Author of the book : __Christian Hill__.

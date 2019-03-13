@@ -20,6 +20,6 @@ __Welcome to share your idea, perspective, and coding here!!__
 
 ---
 
-Solution for the Book :  __Learning Scientific Programming with Python__ .
+The Book :  __Learning Scientific Programming with Python__ .
 
 The Author of the book : __Christian Hill__.

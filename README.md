@@ -2,7 +2,7 @@
 This is a collection of solutions to selected exercises from  __Learning Scientific Programming with Python__ 
 by Christian Hill February 2016.
 
-
+> If you have any confusion about the code or want to report a bug, please open an issue instead of emailing me directly. And unfortunately I do not have exercise answers for the book.
 
 
 As what you can see form the description of this repository,
